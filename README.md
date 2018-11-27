@@ -7,7 +7,7 @@ Smart wash app allows to the users to send their clothes to an laundry mat, and 
 1. Perform a Git Fork on the repository
 2. Perform a Git Clone from your Github Repo to create a local clone of the project
 3. Change Directory to the folder where you created the clone
-4. Install nodemon by typing 'npm install -g nodemon'
+4. Install nodemon by typing 'npm install  nodemon'
 5. Install all the projects dependencies by performing an npm install by typing 'npm install'
 6. In the same terminal window, type 'npm run react-dev'. This will start webpack for transpilation of your jsx files
 7. In a new terminal window, type 'npm run start'. This will start express web server for your site

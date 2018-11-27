@@ -12,7 +12,7 @@ class About extends React.Component {
     return (
       <div className="text">
 
-      <front className="text1" size="5" color="blue"> Bienvenido A &#9885; SmartWash</font>
+    <font className="text1" size="5" color="blue"> Bienvenido A &#9885; SmartWash </font>
       <h1>Nuestro objetivo es proporcionar servicios de lavanderia de alta calidad y una forma conveniente de hacer que su lavado, lavanderia y limpieza en seco se realicen con la maxima calidad.</h1>
 
       <h3>_______________________</h3>

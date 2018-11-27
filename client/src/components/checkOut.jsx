@@ -17,7 +17,7 @@ class CheckOut extends React.Component {
       return (
         <div>
           <h2>Tu orden</h2>
-          <p>Recogeremos {this.props.state.size} de ropa<?p>
+          <p>Recogeremos {this.props.state.size} de ropa  </p>
           <p>el dia{this.props.state.dates.toLocaleDateString()} a las {this.props.state.times}.</p>
           <p></p>
           <p>Tu total sera de ${this.props.state.total/100}</p>
